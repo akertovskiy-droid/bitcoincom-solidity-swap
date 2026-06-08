@@ -5,7 +5,7 @@ token A to ETH / ETH to token A.
 # LXM
 
 ### Process and Testing
-
+#npm run chain
 The package can be run as a CLI for testing purposes.
 
 🔗 First start a local chain:
